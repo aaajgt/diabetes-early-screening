@@ -11,7 +11,7 @@
 
 ## 数据说明
 ### 数据来源
-- 原始数据：采用[Early Stage Diabetes Risk Prediction Dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset)
+- 原始数据链接：采用[Early Stage Diabetes Risk Prediction Dataset](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset)
 
 ## 运行环境
 ### 基础环境
